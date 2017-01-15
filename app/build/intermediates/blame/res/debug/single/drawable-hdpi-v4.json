@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Demo\\17_1_10\\BadgeViewTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\badge_orange.png",
+        "source": "D:\\Demo\\17_1_10\\BadgeViewTest1\\app\\src\\main\\res\\drawable-hdpi\\badge_orange.png"
+    },
+    {
+        "merged": "D:\\Demo\\17_1_10\\BadgeViewTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\badge_blue.9.png",
+        "source": "D:\\Demo\\17_1_10\\BadgeViewTest1\\app\\src\\main\\res\\drawable-hdpi\\badge_blue.9.png"
+    },
+    {
+        "merged": "D:\\Demo\\17_1_10\\BadgeViewTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Demo\\17_1_10\\BadgeViewTest1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
